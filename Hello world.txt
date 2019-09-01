@@ -1,2 +1,3 @@
-print("Hello world!");
+print("Hello world!")
 prin("Hello")
+print(Hello my darling)
